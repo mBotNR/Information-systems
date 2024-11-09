@@ -1,0 +1,5 @@
+D:\C#\Monitoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

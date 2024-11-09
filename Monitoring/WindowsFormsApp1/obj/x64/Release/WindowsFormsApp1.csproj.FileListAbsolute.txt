@@ -1,0 +1,17 @@
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe.config
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.pdb
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Form1.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Form2.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.exe
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.pdb
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\MetroFramework.Design.dll
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\MetroFramework.dll
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\MetroFramework.Fonts.dll
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Form3.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\x64\Release\WindowsF.A1EEDF9B.Up2Date
+D:\C#\Monitoring\WindowsFormsApp1\bin\x64\Release\OpenHardwareMonitorLib.dll

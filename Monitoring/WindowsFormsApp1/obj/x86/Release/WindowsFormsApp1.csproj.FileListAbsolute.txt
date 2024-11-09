@@ -1,0 +1,11 @@
+D:\C#\Monitoring\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe.config
+D:\C#\Monitoring\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.exe
+D:\C#\Monitoring\WindowsFormsApp1\bin\x86\Release\WindowsFormsApp1.pdb
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form1.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.exe
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.pdb
+D:\C#\Monitoring\WindowsFormsApp1\obj\x86\Release\WindowsFormsApp1.Form2.resources
