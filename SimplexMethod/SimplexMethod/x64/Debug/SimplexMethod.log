@@ -1,0 +1,4 @@
+﻿  SimplexMethod.cpp
+C:\Users\rohin\source\repos\SimplexMethod\SimplexMethod.cpp(18,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\rohin\source\repos\SimplexMethod\SimplexMethod.cpp(19,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SimplexMethod.vcxproj -> C:\Users\rohin\source\repos\SimplexMethod\x64\Debug\SimplexMethod.exe
