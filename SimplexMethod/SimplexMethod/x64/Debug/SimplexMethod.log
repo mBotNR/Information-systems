@@ -1,9 +1,0 @@
-﻿  SimplexMethod.cpp
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(46,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(47,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(76,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(77,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(92,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(109,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\C++\Labs\SimplexMethod\SimplexMethod.cpp(110,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  SimplexMethod.vcxproj -> D:\C++\Labs\SimplexMethod\x64\Debug\SimplexMethod.exe
